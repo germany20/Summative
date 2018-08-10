@@ -1,0 +1,24 @@
+/* set styles for body */
+html, body {
+    height: 100%;
+    background-color: white;
+    padding-top: 50px;
+}
+/* set the style for page-header to blue */
+.page-header{
+color: blue;}
+
+/* set the style for navbar brand blue */
+.navbar-brand{
+background-color: blue;
+}
+/* set the style for navbar background to red */
+.navbar{
+background-color: red;
+}
+
+/* Add your styles below with commenst */
+
+
+
+
